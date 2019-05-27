@@ -1,0 +1,5 @@
+<nav>
+    <ul class="drop_menu">
+        <li class="dm_li"><a href="@pathto(index)">index</a></li>
+    </ul>
+</nav>

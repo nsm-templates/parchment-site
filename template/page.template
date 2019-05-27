@@ -1,0 +1,12 @@
+<html>
+    <head>
+        @input(template/head.content)
+    </head>
+
+    <body>
+        @input(template/menu.content)
+
+        @inputcontent
+    </body>
+</html>
+
