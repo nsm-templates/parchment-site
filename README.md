@@ -1,5 +1,5 @@
 <p>
-    <img src="https://raw.githubusercontent.com/nsm-templates/parchment-site/master/site/img/nsm.png" width='120'/>
+    <img src="https://raw.githubusercontent.com/nsm-templates/parchment-site/master/img/nsm.png" width='120'/>
 </p>
 
 =====
