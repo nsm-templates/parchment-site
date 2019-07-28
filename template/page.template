@@ -7,6 +7,10 @@
         @input(template/menu.content)
 
         @inputcontent
+
+		@input(template/footer.content)
+
+		@jsinclude(site/js/process_pre_tags.js)
     </body>
 </html>
 
