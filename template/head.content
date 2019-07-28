@@ -1,4 +1,4 @@
-<title>basic site - @pagetitle</title>
+<title>parchment site - @pagetitle</title>
 
 @cssinclude(site/css/footer.css)
 @cssinclude(site/css/menu.css)
