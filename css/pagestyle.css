@@ -1,17 +1,11 @@
 html
 {
-	/* Size of largest container or bigger */
-	/*min-width: 1080px;*/
 	background: #1F1F1F;
-	/*background-image: url('../files/dark_mosaic.png') !important;*/
-
 	overflow-y: scroll;
 }
 
 div.content
 {
-	/* Size of largest container or bigger */
-	/*min-width: 100px !important;*/
 	position: static;
 	width: 80%;
 	max-width: 800px !important;
@@ -22,33 +16,17 @@ div.content
 	padding-right: 15px;
 	padding-top: 1px;
 	padding-bottom: 5px;
-	/*background:#E0E0E0;*/
-
-	/*background-color:#6d6565;*/
 	background-image: url("../img/parch2.jpg") !important;
 	color:#33312d;
 
 	word-wrap:break-word;
 
-	/*-moz-box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.9);
-    -webkit-box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.9);
-    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.9);*/
-
 	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
 
-	-moz-box-shadow: 3px 3px 5px #202020;
-    -webkit-box-shadow: 3px 3px 5px #202020;
-    box-shadow: 3px 3px 5px #202020;
 	border-bottom-left-radius: 8px;
 	border-bottom-right-radius: 8px;
 	border-top-left-radius: 8px;
 	border-top-right-radius: 8px;
-}
-
-footer
-{
-	text-align: center;
-	margin-top:20px;
 }
 
 header

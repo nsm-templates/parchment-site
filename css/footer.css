@@ -19,11 +19,6 @@ div.footer
     background-color: #3a3535;
 	color: #8c604c;
 	cursor: default;
-
-	/*border-bottom-left-radius: 8px;
-	border-bottom-right-radius: 8px;
-	border-top-left-radius: 8px;
-	border-top-right-radius: 8px;*/
 }
 
 .footer_text
@@ -44,7 +39,6 @@ a.footer_item
 	margin-right: 0px;
 	margin-top:0px;
 	margin-bottom:15px;
-	/*font-family: DejaVu Sans Mono, Liberation Mono, Consolas, Ubuntu Mono, Courier New;*/
 	font-size: 100%;
 	color:#A8A8A8 !important;
 }
