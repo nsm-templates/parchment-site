@@ -1,9 +1,9 @@
 <title>parchment site - @pagetitle</title>
 
-@cssinclude(site/css/footer.css)
-@cssinclude(site/css/menu.css)
-@cssinclude(site/css/pagestyle.css)
-@cssinclude(site/css/pre.css)
+<link rel='stylesheet' type='text/css' href='@pathtofile(site/css/footer.css)'>
+<link rel='stylesheet' type='text/css' href='@pathtofile(site/css/menu.css)'>
+<link rel='stylesheet' type='text/css' href='@pathtofile(site/css/pagestyle.css)'>
+<link rel='stylesheet' type='text/css' href='@pathtofile(site/css/pre.css)'>
 
 <!-- uses google-code-prettify for syntax highlighting
      see https://github.com/google/code-prettify/ for more info -->
